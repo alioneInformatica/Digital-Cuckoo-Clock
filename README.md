@@ -13,4 +13,4 @@ Ali One Informatica specializes in developing websites, web applications and pri
 
 Ali One Informatica - Brescia (BS), Italy
 
-[Read license]: <https://github.com/joemccann/dillinger.git>
+[Read license]: <https://github.com/alioneInformatica/Digital-Cuckoo-Clock/blob/master/LICENSE>
