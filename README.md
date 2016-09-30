@@ -2,6 +2,10 @@
 
 Digital Cuckoo Clock is a free project to do in your free time and it is recommended for those who is fond of DIY, electronics and programming.
 
+# License
+
+This project is kindly offered under the GNU GPL v3 license. Please read carefully the terms and conditions of it.
+Any action or activity not expressly granted may be liable to prosecution.
 
 # Who we are
 
