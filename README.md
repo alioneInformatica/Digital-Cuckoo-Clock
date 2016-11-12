@@ -4,7 +4,7 @@ Digital Cuckoo Clock is a free project to do in your free time and it is recomme
 
 ## Component list
 - Raspberry Pi 3 Model B
-- Micro SD card: 8gb, class 10, UHS-I, 45 MB/s
+- 8GB micro SD card, class 10, UHS-I, 45 MB/s
 - Arduino Uno Rev3
 - Real Time Clock module
 - 5v audio amplifier (based on PAM840)
