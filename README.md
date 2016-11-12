@@ -2,6 +2,29 @@
 
 Digital Cuckoo Clock is a free project to do in your free time and it is recommended for those who is fond of DIY, electronics and programming.
 
+## Component list
+- Raspberry Pi 3 Model B
+- Micro SD card: 8gb, class 10, UHS-I, 45 MB/s
+- Arduino Uno Rev3
+- Real Time Clock module
+- 5v audio amplifier (based on PAM840)
+- 2 channel relay module
+- LCD (HD44780 16x2)
+- 2 mini servo
+- Speaker
+- Leds
+- 2 mini push buttons
+- Jumpers and wires
+- Plywood panel
+- Mini hinges
+- Screws and spacers
+- Hot glue
+- Cuckoo bird
+
+## Description
+This digital cuckoo works as an alarm clock. The user can turn off the alarm when holding the left button or the user can set the alarm time when holding the right button.
+When the alarm time is reached, the cuckoo sound will be played and the cuckoo bird comes out the window. 
+
 # License
 
 This project is kindly offered under the GNU GPL v3 license. Please read carefully the terms and conditions of it.
