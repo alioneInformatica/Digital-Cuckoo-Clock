@@ -34,9 +34,9 @@ Any action or activity not expressly granted may be liable to prosecution. [Read
 
 Ali One Informatica specializes in developing websites, web applications and private home automation systems with particular attention to the networking security and to the security of computer systems. It also independently develop web applications, mobile applications and software.
 
-Ali One Informatica - Brescia (BS), Italy
+Ali One Technologies
 
 If you need to request information or to contact us visit our [Official Facebook page].
 
 [Read license]: <https://github.com/alioneInformatica/Digital-Cuckoo-Clock/blob/master/LICENSE>
-[Official Facebook page]: <https://www.facebook.com/alione.informatica/>
+[Official Facebook page]: <https://www.facebook.com/alione.tech/>
